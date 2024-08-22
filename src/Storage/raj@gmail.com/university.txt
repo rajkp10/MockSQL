@@ -1,0 +1,2 @@
+database=university
+tables=[student {id:name} {INTEGER(PRIMARY_KEY):VARCHAR(255)} [{1:Raj Patel},{2:John Doe},{3:Hobey Barents},{4:Perceval Paulucci}];professor {id:name} {INTEGER(PRIMARY_KEY):VARCHAR(100)} [{1:Michele Durden},{2:Karia Taylor}]]

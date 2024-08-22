@@ -1,0 +1,2 @@
+database=bank
+tables=[accountHolder {id:name} {INTEGER(PRIMARY_KEY):VARCHAR(100)} [{1:raj patel},{2:john doe}]]
